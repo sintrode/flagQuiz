@@ -1,0 +1,25 @@
+h,200;16;46,255;255;255,200;16;46,Austria,Poland,Germany
+h,157;34;53,255;255;255,157;34;53,Latvia,France,Spain
+h,217;0;18,0;51;160,242;168;0,Armenia,China,Turkey
+h,255;255;255,0;155;116,208;28;31,Bulgaria,Belgium,Belarus
+h,0;114;206,0;0;0,255;255;255,Estonia,Tanzania,Finland
+h,0;150;57,255:209;0,0;61;165,Gabon,Ghana,Bolivia
+h,0;0;0,255;0;0,255;204;0,Germany,Belgium,Angola
+h,206;41;57,255;255;255,71;112;80,Hungary,Italy,Sudan
+h,253;185;19,0;106;68,193;39;45,Lithuania,Ghana,Cameroon
+h,239;51;64,255;255;255,0;163;224,Luxembourg,Russia,France
+h,174;28;40,255;255;255,33;70;139,Netherlands,Russia,France
+h,255;255;255,0;50;160,218;41;28,Russia,France,Serbia
+h,67;176;42,255;255;255,105;179;231,Sierra Leone,Zanzibar,Guyana
+h,206;17;38,255;255;255,0;0;0,Yemen,Ghana,Indonesia
+v,0;135;81,255;255;255,0;135;81,Nigeria,Chad,Morocco
+v,217;16;35,255;255;255,217;16;35,Peru,Latvia,Austria
+v,0;0;0,255;205;0,200;16;46,Belgium,Germany,Chad
+v,0;32;91,252;205;0,200;16;46,Chad,Belgium,Portugal
+v,255;130;0,255;255;255,0;154;68,Ivory Coast,Ireland,Italy
+v,0;85;164,255;255;255,239;65;53,France,Russia,Paraguay
+v,206;17;38,252;209;22,0;148;96,Guinea,Mali,Rwanda
+v,22;155;98,255;255;255,255;136;62,Ireland,Ivory Coast,Italy
+v,0;140;69,244;245;240,205;33;42,Italy,Senegal,Belgium
+v,20;181;58,252;209;22,206;17;38,Mali,Guinea,Rwanda
+v,0;43;127,252;209;22,206;17;38,Romania,Belgium,Ethiopia
