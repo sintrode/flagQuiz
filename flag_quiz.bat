@@ -153,7 +153,7 @@ for /f "tokens=1-3 delims=," %%A in ("%~1") do (
 
 :: Ideally we'd pick two random elements and switch them, but since we only
 :: have three choices, swapping the first element with either the second or
-:: third one is good enough. Besides, since t
+:: third one is good enough.
 for /L %%A in (1,1,10) do (
     set /a switch_1_with=!RANDOM!%%2+2
     for /f %%B in ("!switch_1_with!") do (
